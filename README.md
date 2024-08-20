@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+-TUVE QUE BAJAR LA APLICACIÓN DE RENDER PARA PODER HACER LAS ACTIVIDADES DEL MÓDULO 6
+DEJO EN ASSETS/IMAGES EL PANTALLAZO DE QUE SUBÍ CORRECTAMENTE ESTA APLICACIÓN A RENDER EN EL MOMENTO ADECUADO.
+-LA TOMA DE CAPTURA DE PANTALLA ES EL 20 DE AGOSTO, FECHA EN LA QUE BAJO LA APLICACIÓN PARA HACER DESAFÍO MÓDULO 6.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
